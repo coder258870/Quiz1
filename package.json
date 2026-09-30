@@ -1,0 +1,20 @@
+{
+  "name": "Scrim-s04vvhd",
+  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0vh/s0bu50updo/head",
+  "scripts": {
+    "watch": "webpack -w",
+    "build": "webpack"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "html-entities": "2.6.0",
+    "webpack": "^2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0",
+    "babel-loader": "^7.0",
+    "babel-preset-env": "*",
+    "babel-preset-react": "*"
+  }
+}
